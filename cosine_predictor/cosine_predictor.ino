@@ -22,6 +22,7 @@
 #ifndef COSINE_MODEL_H
 #define COSINE_MODEL_H
 
+
 #include <stdint.h>
 
 // Auto-generated from cosine_int8.tflite
