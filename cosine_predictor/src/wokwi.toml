@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = "cosine_predictor.ino"
+diagram = "diagram.json"
+board = "esp32"
+libs = ["Chirale_TensorFlowLite"]
+rfc2217ServerPort = 4000

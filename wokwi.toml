@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = 'build/arduino.esp32.esp32/cosine_predictor.ino.bin'
-elf = 'build/arduino.esp32.esp32/cosine_predictor.ino.elf'
